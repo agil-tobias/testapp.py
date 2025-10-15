@@ -10,7 +10,7 @@ def hello_world():
     Denna funktion körs när någon besöker din hemsidas startsida
     @app.route('/') dekoratören betyder att denna funktion hanterar förfrågningar till rot-URL:en
     """
-    return '<h1>Hej kursen!</h1>'
+    return '<h1>Hej!</h1>'
 # Detta block körs endast när du kör denna fil direkt (inte när den importeras)
 if __name__ == '__main__':
 # Kör Flask-utvecklingsservern
