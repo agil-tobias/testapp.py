@@ -1,3 +1,5 @@
+"""This is a silly module"""
+
 # app.py - Detta är din huvudsakliga Flask-applikationsfil
 from flask import Flask
 # Skapa en Flask-applikationsinstans
